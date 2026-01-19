@@ -10,3 +10,4 @@ and combines all these tools into **one single, easy-to-use, and safe tool**.
 * Choose the **crack type**.
 * Click **Start**.
 * Once the process finishes, you’re done.
+<img width="1250" height="630" alt="Image" src="https://github.com/user-attachments/assets/a897dad6-7eb1-484d-b687-441482467c2c" />
